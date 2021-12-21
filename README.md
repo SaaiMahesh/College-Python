@@ -1,2 +1,2 @@
-# College-Python
-## Repo for python related codes done in college.
+## College-Python
+### Repo for python related codes done in college.
